@@ -4,7 +4,11 @@
 ## Contributors (name, email, github username, role)
 ### Shirley Hu sherlockhu12@gmail.com, hu38, full-stack
 ### Peng Zhang pengzhang0104@gmail.com
-### Xinyi Zhao xinyizhao1214@gmail.com
+### Xinyi Zhao xinyizhao1214@gmail.com, cinyee1214, back-end
+### Linda Li lindalee1661@gmail.com, kelpiepeter, full-stack
+### Xiaohua Wang wangxin.cyn@gmail.com, Flora-OvO, front-end
+### Da Wang wangda.mme@gmail.com
+
 <br/>
 
 ## Contributing in Github
